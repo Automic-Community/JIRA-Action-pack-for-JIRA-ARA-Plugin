@@ -1,9 +1,9 @@
-*Jira Action pack for Jira ARA Plugin*
+*JIRA Action pack for JIRA ARA Plugin*
 =============
 
 
-Automate the creation of Deployment/Provisioning Requests in Jira
-http://github.com/Automic-Community/Jira-Action-pack-for-Jira-ARA-Plugin
+Automate the creation of Deployment/Provisioning Requests in JIRA
+http://github.com/Automic-Community/JIRA-Action-pack-for-JIRA-ARA-Plugin
 
 <!-- List of attached files -->
 Contents of Solution Package:
@@ -20,7 +20,7 @@ Documenation and Instructions
 ---
 
 <p>This Action Pack can be used in Post-Deployment tasks to automatically create the triggers for the next stage in the Deployment Pipeline.</p>
-<p>Automate the creation of Deployment/Provisioning Requests within Jira and set the following ARA Execution parameters automatically:</p>
+<p>Automate the creation of Deployment/Provisioning Requests within JIRA and set the following ARA Execution parameters automatically:</p>
 <ul>
 <li>ARA Application</li>
 <li>ARA Workflow</li>
@@ -28,7 +28,7 @@ Documenation and Instructions
 <li>ARA Package</li>
 </ul>
 <p>&nbsp;</p>
-<p>This Action Pack is REST API based.</p>
+<p>This Action Pack is ARA v12 REST API based.</p>
 
 Copyright and License
 ---
